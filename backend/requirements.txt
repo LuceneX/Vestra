@@ -1,0 +1,37 @@
+# Web Framework
+fastapi==0.103.0
+uvicorn==0.23.1  # ASGI server for FastAPI
+
+# Database (MongoDB)
+motor==2.7.0  # Async driver for MongoDB with FastAPI (built on top of pymongo)
+pymongo==4.5.0  # MongoDB driver
+
+# Payment Integration (Stripe)
+stripe==5.2.0
+
+# Authentication (JWT)
+pyjwt==2.8.0
+
+# Request Validation (Pydantic for FastAPI)
+pydantic==2.6.0
+
+# Email Handling (Flask-Mail or alternatives)
+flask-mail==0.9.1  # For Flask-based email handling (or use FastAPI alternatives)
+
+# Testing Tools
+pytest==7.4.0
+pytest-fastapi==0.2.2
+factory_boy==3.2.0
+coverage==7.3.0
+
+# Development Tools
+black==23.3.0
+flake8==6.1.0
+pre-commit==3.2.2
+
+# Environment Management
+python-dotenv==1.0.0
+
+# CORS Handling
+flask-cors==3.2.2  # For handling cross-origin requests, especially useful if your frontend is separate
+
