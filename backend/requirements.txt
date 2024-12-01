@@ -5,6 +5,7 @@ uvicorn==0.23.1  # ASGI server for FastAPI
 # Database (MongoDB)
 motor==3.1.1  # Async driver for MongoDB with FastAPI (built on top of pymongo)
 pymongo==4.5.0  # MongoDB driver
+mongoengine
 
 # Payment Integration (Stripe)
 stripe==5.2.0
