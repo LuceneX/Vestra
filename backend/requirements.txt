@@ -36,3 +36,7 @@ python-dotenv==1.0.0
 # CORS Handling
 flask-cors==4.0.2  # For handling cross-origin requests, especially useful if your frontend is separate
 
+
+
+# I have no fucking idea for now which category this matches but it is needed
+passlib
