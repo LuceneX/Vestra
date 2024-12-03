@@ -40,3 +40,5 @@ flask-cors==4.0.2  # For handling cross-origin requests, especially useful if yo
 
 # I have no fucking idea for now which category this matches but it is needed
 passlib
+email-validator
+
