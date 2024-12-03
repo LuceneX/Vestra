@@ -1,1 +1,7 @@
 fuckingHell/.env
+backend/app/controllers/__pycache__/user_controller.cpython-311.pyc
+backend/app/controllers/__pycache__/product_controller.cpython-311.pyc
+backend/app/controllers/__pycache__/order_controller.cpython-311.pyc
+backend/app/controllers/__pycache__/__init__.cpython-311.pyc
+backend/app/__pycache__/main.cpython-311.pyc
+backend/app/__pycache__/__init__.cpython-311.pyc
